@@ -1,0 +1,13 @@
+com\yves\lambert\controller\AfficherListeCoursesController.class
+com\yves\lambert\dao\IListeCoursesDAO.class
+com\yves\lambert\controller\CreerListeCoursesController.class
+com\yves\lambert\controller\ModificationCourse.class
+com\yves\lambert\controller\BonjourController.class
+com\yves\lambert\services\ServiceListeCourses.class
+com\yves\lambert\services\IServiceListeCourses.class
+com\yves\lambert\controller\CreationForm.class
+bean\Course.class
+com\yves\lambert\controller\SupprimerListeCoursesController.class
+com\yves\lambert\dao\ListeCoursesDAO.class
+com\yves\lambert\controller\ModifieirListeCoursesController.class
+com\yves\lambert\controller\ModificationForm.class
